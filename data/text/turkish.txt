@@ -5,38 +5,38 @@ help			Yardım
 options			Seçenekler
 credits			Katkıda bulunanlar
 exit			Çıkış
-choose_game		Yüklemek için bir oyun seçin ya da 'Yeni Oyun' başlatın
+choose_game		Yüklemek için bir oyun seç ya da 'Yeni Oyun' başlat
 new_game		Yeni Oyun
 what_name		Adın ne?
 back			Geri
 continue		Devam
 delete			Sil
-delete_confirm	Are you sure you want to delete this game?
+delete_confirm	Bu oyunu silmek istediğine emin misin?
 yes				Evet
 no				Hayır
 help_text		This is a platform game. Use the left and right arrow keys for moving, spacebar for jumping, X for items, Z or V to switch between items, C for abilities, Shift to switch characters, up arrow to open doors, Esc to pause.\nThe game also supports joysticks (connect before opening the game), though the button mapping can vary. For an XBOX 360 controller, use the analog stick or D-pad as the arrow buttons, A for jump and confirm, B for items and cancel, X for abilities, Y to switch characters, LB and RB to switch items, Start to pause.\nUse F4 to toggle full screen.
-save			Save
-cancel			Cancel
-language		Language
+save			Kaydet
+cancel			İptal
+language		Dil
 lang_name		Türkçe
-sound_volume	Sounds volume
-music_volume	Music volume
-controls		Controls
-controls_0		Arrows, Space, Shift, A, S
+sound_volume	Ses düzeyi
+music_volume	Müzik düzeyi
+controls		Kontroller
+controls_0		Ok tuşları, Boşluk, Shift, A, S
 controls_1		WASD, JKLI
-full_screen		Press F4 to alternate between window and full screen
-credits_prog	- Design, Programming and Graphics -
-credits_music	- Music -
-sounds			- Sound Effects -
-sounds_edit		Edition by Victor David Santos
-developed		Fully developed on Linux
+full_screen		Pencere ve tam ekran görünümü arasında değişiklik yapmak için F4'e bas
+credits_prog	- Tasarım, Programlama ve Grafik -
+credits_music	- Müzik -
+sounds			- Ses Efektleri -
+sounds_edit		Victor David Santos tarafından düzenlenmiştir
+developed		Tamamıyla Linux üzerinde geliştirilmiştir
 special_thanks	- Special Thanks -
 special_thanks2	The Gosu community\n...and many other friends and family
 special_thanks3	The Gosu community\nAll other friends and family\nwho made this project possible...\nand YOU, for playing my game!\nTHANK YOU VERY MUCH!
 graph_soft		- Graphics Software -
 music_soft		- Music/Audio Software -
 langs_libs		- Languages and Frameworks -
-confirm_exit	Are you sure you want to exit?
+confirm_exit	Çıkmak istediğine emin misin?
 ch_st_instruct	Press 'Enter' to start.\nPress 'Esc' or 'Backspace' to go back.
 stage			Stage
 loading			Loading
